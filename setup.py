@@ -20,11 +20,9 @@ def banner():
 	{re}╚═╗{cy}├┤  │ │ │├─┘
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
-	Recoded By Da₹edevilkinng
+	Recoded By Nsima George
 	
 	THIS IS 1ST INSTANCE
-	please do not change the descriptipn of code changing it won't make you a coder. 
-	Respect coders. Thank you.
 	
 	""")
 
@@ -92,10 +90,10 @@ def update_tool():
 		os.system('rm *.py');time.sleep(1)
 		print(gr+'['+cy+'+'+gr+']'+cy+' getting latest files ...')
 		os.system("""
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/groupadd.py
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/scraper.py
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/setup.py
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/smsbot.py
+			curl -s -O https://github.com/Nsima/TeleAdder/blob/master/groupadd.py
+			curl -s -O https://github.com/Nsima/TeleAdder/blob/master/scraper.py
+			curl -s -O https://github.com/Nsima/TeleAdder/blob/master/setup.py
+			curl -s -O https://github.com/Nsima/TeleAdder/blob/master/smsbot.py
 			chmod 777 *.py
 			""");time.sleep(1)
 		print(gr+'\n['+cy+'+'+gr+']'+cy+' update compled.\n')
