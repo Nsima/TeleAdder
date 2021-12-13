@@ -1,9 +1,6 @@
-# Pro Version Of Telegram Member Adder Tool
-
-Contact me to get the Pro Version of this TeleAdder :
+# Telegram Member Adder Tool
 
 
- Telegram : https://t.me/daredevilkinng
  
  
 # Script to export members Telegram Groups and Channels to a CSV file and to add members to Telegram Groups or Channels.
@@ -45,14 +42,6 @@ Adding users by User ID expects a CSV file such as: `username,user_id,user_acces
 Once you have your CSV prepared, just follow the instructions in the script.
 
 
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://youtu.be/DiXvVSzFo0g">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
-  </a>
-</p>
 
 
 # Telegram-Scraper-Adder-Complete
@@ -90,7 +79,7 @@ $ pkg install git -y
 $ pkg install -y git python
 
 
-$ git clone https://github.com/daredevilkinng/TeleAdder.git
+$ git clone https://github.com/Nsima/TeleAdder.git
 
 
 $ cd TeleAdder
